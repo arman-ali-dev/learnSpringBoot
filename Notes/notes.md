@@ -1,6 +1,9 @@
-### Spring Boot - 
+### Spring Boot: 
 Spring Boot is a Java framework that simplifies building stand-alone, production-ready Spring applications. It eliminates boilerplate code, provides embedded servers,
 and follows convention over configuration, making development faster and easier.
+
+### Standalone Application:
+Applications that do not need to be deployed to an external server (eg Tomcat, Jetty).
 
 # How are Spring Boot applications production-ready?
 
