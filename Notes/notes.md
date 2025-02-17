@@ -39,3 +39,6 @@ Applications that do not need to be deployed to an external server (eg Tomcat, J
 ### Example:
 If you have built a simple web app and can deploy it directly on the server without any extra setup, then it is production-ready.</br>
 Spring Boot simplifies this to achieve maximum efficiency with minimum effort.</br>
+
+## Meaven: 
+Maven is a build automation tool used for Java projects. It mainly automates project management, dependency management, and the build process.
