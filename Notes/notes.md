@@ -45,3 +45,28 @@ Maven is a tool that helps in managing libraries (dependencies) and building Jav
 
 ## Jar: 
 A JAR (Java Archive) file is a compressed package that contains Java classes, resources, and libraries. It is used to distribute and run Java applications efficiently. Many third-party libraries (like Spring Boot) come in JAR format. You can run a JAR file using java -jar filename.jar.
+
+## IOC: 
+IOC (Inversion of Control) is a concept in Spring Boot where the framework takes control of object creation and dependency management instead of the developer. This allows Spring to automatically create and inject objects, reducing manual object creation. 
+
+## ApplicationContext:
+ApplicationContext is the implementation of Inversion of Control (IOC) in Spring Boot. It acts as a container that creates, manages, and injects beans (objects) automatically, following the IOC principle.
+
+## Bean:
+A Bean is an object that Spring creates and manages automatically.</br>
+Note - Normal Object (Not a Bean)
+
+## @SpringBootApplication:
+@SpringBootApplication is a special annotation in Spring Boot that marks the main class of the application. It enables auto-configuration, component scanning, and configuration setup in a single step. It combines @EnableAutoConfiguration, @ComponentScan, and @Configuration to simplify Spring Boot setup.
+
+## @ComponentScan: 
+@ComponentScan tells Spring where to search for components like @Component, @Service, and @Repository. It automatically registers these beans in the Spring container for dependency injection.
+
+## @AutoWired:
+@Autowired is a Spring annotation that automatically injects dependencies (beans) without manual object creation. It helps in managing dependencies efficiently using Spring’s IOC container.
+
+## @AutoConfiguration:
+@AutoConfiguration in Spring Boot automatically configures beans based on the classpath and defined properties, reducing manual setup. It helps developers build applications with minimal configuration.
+
+## @Configuration
+@Configuration marks a class as a source of bean definitions for the Spring container.
