@@ -41,4 +41,7 @@ If you have built a simple web app and can deploy it directly on the server with
 Spring Boot simplifies this to achieve maximum efficiency with minimum effort.</br>
 
 ## Meaven: 
-Maven is a build automation tool used for Java projects. It mainly automates project management, dependency management, and the build process.
+Maven is a tool that helps in managing libraries (dependencies) and building Java projects easily. In Spring Boot, it downloads required files automatically and helps in running, testing, and packaging the project with simple commands.
+
+## Jar: 
+A JAR (Java Archive) file is a compressed package that contains Java classes, resources, and libraries. It is used to distribute and run Java applications efficiently. Many third-party libraries (like Spring Boot) come in JAR format. You can run a JAR file using java -jar filename.jar.
