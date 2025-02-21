@@ -70,3 +70,6 @@ Note - Normal Object (Not a Bean)
 
 ## @Configuration
 @Configuration marks a class as a source of bean definitions for the Spring container.
+
+## ORM: 
+ORM (Object-Relational Mapping) is a technique that connects Java objects with database tables. In Spring Boot, Hibernate is commonly used for ORM to simplify database operations. It helps in managing data without writing complex SQL queries.
