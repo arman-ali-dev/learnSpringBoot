@@ -73,3 +73,9 @@ Note - Normal Object (Not a Bean)
 
 ## ORM: 
 ORM (Object-Relational Mapping) is a technique that connects Java objects with database tables. In Spring Boot, Hibernate is commonly used for ORM to simplify database operations. It helps in managing data without writing complex SQL queries.
+
+## @Document:
+@Document is a Spring Data MongoDB annotation that marks a Java class as a MongoDB document. 
+
+## @Id:
+@Id is used to mark a field as the primary key, mapping it to MongoDB's _id field.
