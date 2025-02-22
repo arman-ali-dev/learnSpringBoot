@@ -79,3 +79,6 @@ ORM (Object-Relational Mapping) is a technique that connects Java objects with d
 
 ## @Id:
 @Id is used to mark a field as the primary key, mapping it to MongoDB's _id field.
+
+## Lombok:
+Lombok is a Java library that helps reduce boilerplate code by automatically generating common methods like getters, setters, and constructors. It uses annotations to simplify code writing.
