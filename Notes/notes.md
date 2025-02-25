@@ -91,3 +91,6 @@ Authentication is the process of verifying a user's identity to ensure they are 
 
 ## Authorization:
 Authorization decides what a user can access after their identity is verified. It controls permissions for actions and resources.
+
+## Proxy:
+A proxy in Spring Boot is an intermediate layer that manages access to objects, adding features like logging, security, and caching. It helps modify behavior without changing the actual object.
