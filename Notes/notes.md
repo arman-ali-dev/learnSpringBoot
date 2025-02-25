@@ -82,3 +82,12 @@ ORM (Object-Relational Mapping) is a technique that connects Java objects with d
 
 ## Lombok:
 Lombok is a Java library that helps reduce boilerplate code by automatically generating common methods like getters, setters, and constructors. It uses annotations to simplify code writing.
+
+## @Bean:
+In Spring Boot, @Bean is an annotation used on a method to define a Spring-managed bean. The method’s return value is registered in the Spring container, allowing manual object creation and dependency injection.
+
+## Authentication:
+Authentication is the process of verifying a user's identity to ensure they are who they claim to be. It typically involves credentials like a username and password, biometrics, or authentication tokens.
+
+## Authorization:
+Authorization decides what a user can access after their identity is verified. It controls permissions for actions and resources.
