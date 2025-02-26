@@ -94,3 +94,12 @@ Authorization decides what a user can access after their identity is verified. I
 
 ## Proxy:
 A proxy in Spring Boot is an intermediate layer that manages access to objects, adding features like logging, security, and caching. It helps modify behavior without changing the actual object.
+
+## JWT ( Json Web Toekn ):
+JWT (JSON Web Token) is a small and safely encoded token used to share information between two parties. It is mostly used for user login and access control in web apps.
+
+## Access Token:
+An access token is a temporary pass that lets a user access a system or data. It is given after login and used to check permissions.
+
+## Refresh Token:
+A refresh token is a special key that gives a new access token when the old one expires. It helps users stay logged in without signing in again.
