@@ -103,3 +103,9 @@ An access token is a temporary pass that lets a user access a system or data. It
 
 ## Refresh Token:
 A refresh token is a special key that gives a new access token when the old one expires. It helps users stay logged in without signing in again.
+
+## JPA:
+JPA (Java Persistence API) is a specification in Java that helps store, retrieve, and manage data in relational databases using Java objects. It eliminates the need for writing complex SQL queries by mapping Java classes to database tables. Hibernate is a popular framework that implements JPA.
+
+## @Entity:
+@Entity is a JPA annotation that marks a Java class as a database table. It allows Hibernate to automatically map class fields to table columns. 
