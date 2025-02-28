@@ -109,3 +109,10 @@ JPA (Java Persistence API) is a specification in Java that helps store, retrieve
 
 ## @Entity:
 @Entity is a JPA annotation that marks a Java class as a database table. It allows Hibernate to automatically map class fields to table columns. 
+
+## JUnit:
+JUnit is a testing framework for Java that helps check if your code is working correctly.
+It runs tests automatically and tells you if something is wrong.
+In Spring Boot, JUnit is used to test different parts of the application like services and APIs
+
+
