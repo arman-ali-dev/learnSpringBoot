@@ -115,4 +115,10 @@ JUnit is a testing framework for Java that helps check if your code is working c
 It runs tests automatically and tells you if something is wrong.
 In Spring Boot, JUnit is used to test different parts of the application like services and APIs
 
+## @Componnent and @Service:
+### @Component →
+A basic Spring annotation that creates a bean and makes a class a Spring-managed component.
+
+### @Service →
+A @Component that also creates a bean but is specifically used for business logic in the service layer.
 
