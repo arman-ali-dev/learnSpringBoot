@@ -122,9 +122,11 @@ A basic Spring annotation that creates a bean and makes a class a Spring-managed
 ### @Service →
 A @Component that also creates a bean but is specifically used for business logic in the service layer.
 
-### YAML File:
+## YAML File:
 A YAML (.yml) file is a human-readable configuration file that uses indentation to structure data. It is commonly used for settings in applications like Spring Boot, Docker, and Kubernetes. YAML stands for "YAML Ain't Markup Language" and is used for data serialization and configuration.
 
-### @Value():
+## @Value():
 @Value annotation is used in Spring Boot to read values from the application.properties or application.yml file. It helps assign configuration values directly to variables in the code.
 
+## JPA Repository:
+JPA Repository is an interface in Spring Data JPA that helps perform CRUD operations (Create, Read, Update, Delete) on a database without writing SQL queries. It makes database interactions faster and easier.
