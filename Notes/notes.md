@@ -130,3 +130,9 @@ A YAML (.yml) file is a human-readable configuration file that uses indentation 
 
 ## JPA Repository:
 JPA Repository is an interface in Spring Data JPA that helps perform CRUD operations (Create, Read, Update, Delete) on a database without writing SQL queries. It makes database interactions faster and easier.
+
+## JavaMailSender:
+JavaMailSender is a tool in Java used for sending emails. It helps send emails using an SMTP server.
+
+## SMTP Server:
+An SMTP (Simple Mail Transfer Protocol) server is a system that sends and delivers emails to the correct recipient. When you send an email, the SMTP server processes it and forwards it to the recipient’s mail server.
